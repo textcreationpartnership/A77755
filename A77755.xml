@@ -1,0 +1,1090 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries concerning the lawfullnes of imposing, and taking of the negative oath; propounded by some ministers under restraint in the garrison of Weymouth. / And answered by [brace] E.B. and P.I. [brace] Ministers of [brace] Weymouth, and Melcomb-regis.</title>
+            <author>Buckler, Edward, 1610-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77755</idno>
+            <idno type="STC">Wing B5347</idno>
+            <idno type="STC">Thomason E369_1</idno>
+            <idno type="STC">ESTC R201276</idno>
+            <idno type="EEBO-CITATION">99861800</idno>
+            <idno type="PROQUEST">99861800</idno>
+            <idno type="VID">113945</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113945)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E369[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries concerning the lawfullnes of imposing, and taking of the negative oath; propounded by some ministers under restraint in the garrison of Weymouth. / And answered by [brace] E.B. and P.I. [brace] Ministers of [brace] Weymouth, and Melcomb-regis.</title>
+                  <author>Buckler, Edward, 1610-1706.</author>
+                  <author>Ince, Peter, b. 1614 or 1615.</author>
+               </titleStmt>
+               <extent>[4], 12, 11-13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Rich. Royston, at the Angell in Ivy Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVII. [1647, i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.B. = Edward Buckler, who has signed "To the reader"; P.I. = Peter Ince.</note>
+                  <note>The words "E.B. and P.I." are enclosed in brackets and "Waymouth, and Melcomb-regis." are bracketed together on title page.</note>
+                  <note>Thomason received his copy December 29, 1646.</note>
+                  <note>Annotation on Thomason copy: "Dec: 29 1646"; the II's in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113945:1"/>
+            <pb facs="tcp:113945:1" rendition="simple:additions"/>
+            <p>CERTAINE
+QUERIES
+<hi>CONCERNING</hi>
+The lawfullnes of impoſing, and taking
+of the <hi>NEGATIVE OATH</hi>; Pro<g ref="char:EOLhyphen"/>pounded
+by ſome MINISTERS under
+reſtraint in the Garriſon of
+<hi>WEYMOUTH.</hi>
+            </p>
+            <p>AND ANSWERED
+By
+<hi>E. B.</hi>
+and
+<hi>P. I.</hi>
+Miniſters of
+<hi>Weymouth,</hi>
+and
+<hi>Melcomb-regis.</hi>
+            </p>
+            <p>LONDON
+Printed for <hi>Rich. Royſton,</hi> at the Angell in <hi>Ivy Lane,</hi>
+               <hi>M DC XLVII.</hi>
+            </p>
+            <pb facs="tcp:113945:2"/>
+            <pb facs="tcp:113945:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:113945:3"/>
+            <pb facs="tcp:113945:3"/>
+            <head>The Negative Oath.</head>
+            <p>
+               <hi>I A. B.</hi> Do ſweare from my heart, that I
+will not directly, nor indirectly, adhere un<g ref="char:EOLhyphen"/>to,
+or willingly aſsiſt the King in this War,
+or in this Cauſe, againſt the Parliament, nor
+any Forces rayſed without the conſent of
+the two houſes of Parliament, in this Cauſe
+or Warre: And I do likewiſe ſweare, that
+my comming and ſubmitting my ſelfe under
+the Power and protection of the Parlia<g ref="char:EOLhyphen"/>ment,
+is without any manner of Deſign
+whatſoever, to the prejudice of the procee<g ref="char:EOLhyphen"/>dings
+of this preſent Parliament, and with<g ref="char:EOLhyphen"/>out
+the direction, privity, or advice of the
+King, or any of his Councell, or Officers, o<g ref="char:EOLhyphen"/>ther
+then what I have now made knowne,
+So helpe me God, and the contents of this
+Booke.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113945:4"/>
+            <head>To the Reader.</head>
+            <p>THeſe Queries were privately propound<g ref="char:EOLhyphen"/>ed,
+by men pretending a ſober deſire of
+ſatisfaction, and this Anſwer (whoſe
+contrivement was not the expence of full 24.
+houres) as privately returned. The men were
+ſo farre from having their Conſciences unſcru<g ref="char:EOLhyphen"/>pled
+by any thing here ſaid, that wee were con<g ref="char:EOLhyphen"/>ſtrained
+to offer them a diſpute, <hi>Ore tenus,</hi> which
+(after time, and place, and Moderator, agreed
+upon, and all parties met) was prudently de<g ref="char:EOLhyphen"/>clined,
+ſince which time (as I have been aſſured
+by ſome godly Miniſters, and others) it hath
+been given out, by one or more of the Parties
+themſelves, how little could be ſaid for the
+Parliaments practiſe, and ſome aſperſions caſt
+upon my ſelfe in particular; whereby I am ne<g ref="char:EOLhyphen"/>ceſsitated
+to own theſe Papers, and to make
+them publique, that the world may ſee, that
+what I have here ſaid, was enough to caſt me
+by choyce upon that ſide I ever was, ſince theſe
+differences began, though not enough to fetch
+thoſe men off, who are not willing they
+ſhould now end.</p>
+            <closer>
+               <signed>Thine in the Cauſe of Chriſt,
+and the Kingdome.
+EDWARD BUCKLER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb n="1" facs="tcp:113945:4"/>
+            <head>Certain Queries concerning the impoſing
+and taking the Negative Oath, &amp;c.</head>
+            <div n="1" type="question">
+               <head>1. Quere.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Ince Faith, (that is, an aſſurance of the warrantable<g ref="char:EOLhyphen"/>neſſe
+of any particular undertaking) muſt be the
+ground of a <hi>Chriſtians</hi> action, and ſuch Faith can reſt
+on nothing but Gods word, <hi>Wee demand,</hi> what
+warrant there is in the <hi>Goſpell,</hi> (which re<g ref="char:EOLhyphen"/>ſtraines
+the uſe of <hi>Oaths</hi>) for the contriving, and im<g ref="char:EOLhyphen"/>poſing
+an <hi>Oath,</hi> (which is a ſolemne Act of <hi>Religion</hi>) in order to po<g ref="char:EOLhyphen"/>litick
+ends? This the rather wee deſire to be ſatisfyed in, becauſe our
+experience teacheth us, that this <hi>Oath</hi> is made uſe of as an <hi>Engine of
+State,</hi> ſince it is not urged generally on all, but preſſed upon ſome, not
+without <hi>Deſign</hi> upon their eſtates, and liberties.</p>
+               <p>
+                  <hi>Anſ.</hi> Your firſt <hi>Quere</hi> is, what warrant there is in the Goſpell
+for the contriving and impoſing of an <hi>Oath,</hi> in order to <hi>Politique
+Ends?</hi>
+               </p>
+               <p>1. An aſſurance from Gods word of the warrantablenes of any
+particular undertaking, muſt be a <hi>Chriſtians</hi> ground of that un<g ref="char:EOLhyphen"/>dertaking.</p>
+               <p>2. The <hi>Negative Oath</hi> is in order to Politique ends, being an
+Engine of State. For</p>
+               <list>
+                  <item>1. It is not urged generally on all, but only on ſome.</item>
+                  <item>2. On thoſe ſome, not without deſign upon their
+<list>
+                        <item>1 States.</item>
+                        <item>2 Liberties</item>
+                     </list>
+                  </item>
+               </list>
+               <p>1. wee obſerve,</p>
+               <p>1. An ill Omen: <hi>viz.</hi> a ſtumbling at the threſhold, you demand
+<pb n="2" facs="tcp:113945:5"/>
+what warrant there is in the Goſpell, &amp;c. and the reaſon of your
+demand is, becauſe there ought to be a warrant in the word. Wee
+hope Gods word, and the Goſpell, are not with you terms con<g ref="char:EOLhyphen"/>temptible,
+ſo that if we find warrant in the word, it wil be enough.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. That you demand not whether it be lawfull to take, but whe<g ref="char:EOLhyphen"/>ther
+it be lawfull to contrive, and impoſe an <hi>Oath,</hi> in order to Po<g ref="char:EOLhyphen"/>litique
+ends, and ſo this can be no ſcruple of your <hi>Conſciences;</hi> for
+whether lawfull or not, you are not concerned in it.</p>
+               <div type="answer">
+                  <head>2. Wee anſwer,</head>
+                  <p>1. <hi>To your Quere. viz.</hi> What warrant there is in the word, (<hi>for
+that muſt be the ſence of your Quere</hi>) for the contriving and im<g ref="char:EOLhyphen"/>poſing
+of an Oath in order to Politique ends?</p>
+                  <p>Wee deſire you to looke into theſe following Scriptures;
+where you ſhall find,</p>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> 1. An <hi>Oath,</hi> in order to
+politique ends, both in
+<list>
+                           <item>1. Precept, <hi>Exod.</hi> 22. 8. 11.</item>
+                           <item>2. Practiſe, 1 <hi>Reg. 8. 31. Gen.</hi> 24.
+2. 3. <hi>Neh.</hi> 5. 12. (2 <hi>Chron.</hi> 36. 13.
+compared with <hi>Ez<gap reason="illegible" resp="#TECH" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>k.</hi> 17. 13. 16.)</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 2. <hi>A negative</hi> Oath<g ref="char:punc">▪</g> 1 Reg. 2. 42. 43. Gen. 24. 3. Iudg. 21. 7</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> 3. An <hi>Oath</hi> not urged on all, but ſome, as when an Oath is ex<g ref="char:EOLhyphen"/>planatory,
+or cautionary (as in the caſe in hand) it is only preſſed
+upon the ſuſpected, not urged on all. <hi>Num. 5. 19. Exod.</hi> 22. 11.
+the man ſuſpected, not all the men in the neighbourhood. <hi>Ezr.</hi>
+10. 15.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> 4. An <hi>Oath</hi> not without influence
+(<gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> without Deſign) upon their</p>
+                  <list>
+                     <item>1. Eſtates, <hi>Neh.</hi> 5. 12.</item>
+                     <item>2. Liberties. 1. <hi>Reg.</hi> 2. 42.</item>
+                  </list>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                     <hi>O<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>j.</hi> Theſe texts are all in <hi>V. T.</hi> But the Goſpell reſtraines the
+uſe of <hi>Oathes.</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="8"/> Sol.
+<list>
+                           <item>1. You either were not able, or not willing, to give us
+any ſence of this <hi>parentheſis,</hi> at our firſt meeting.</item>
+                           <item>2. You ſhew us where the Goſpell reſtraines the uſe of
+Oathes in any ſence that will ſerve your purpoſe.</item>
+                           <item>
+                              <milestone type="tcpmilestone" unit="unspecified" n="9"/> 3. Oathes are
+in the Goſpel,
+<list>
+                                 <item>1. mentioned with approbation, <hi>Heb.</hi> 6. 16.</item>
+                                 <item>2. <hi>uſed</hi> Rom 9 1. 2 Cor. 11. 31. 2 Cor. 1. 23</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>2. To the reaſons of your Quere, to the</p>
+                  <p>1. V<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z. An aſſurance from G<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ds word of the warrantablenes of
+any particular undertaking, muſt be a <hi>Chriſtians</hi> ground of that
+undertaking.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> This wee acknowledge to be a truth,<note place="margin">Anſ.</note> and a neceſſary ground of
+<pb n="3" facs="tcp:113945:5"/>
+Quere, when wee do indeed doubt of the warrantablenes of any
+thing that is required of us. But wee do not thinke our ſelves, or
+others, bound to ſuffer, till wee can ſatisfy our ſelves of a warrant
+for what is done by others; as in the caſe of this Quere, <hi>viz.</hi> of a
+ground for contriving and impoſing of oathes—To the</p>
+                  <p>2. The <hi>Negative oath</hi> is in order to Politique ends, &amp;c.<milestone type="tcpmilestone" unit="unspecified" n="11"/>
+                  </p>
+                  <p>See in order to what end thoſe oathes were contrived and impo<g ref="char:EOLhyphen"/>ſed,<note place="margin">Anſ.</note>
+which you ſaw in the texts above cited.—To the grounds
+of this viz.</p>
+                  <list>
+                     <item>1. This oath is not urged on all.</item>
+                     <item>If by (all)
+you meane
+<list>
+                           <item>1. All the Subjects of this Kingdome (oathes not
+being either to be multiplied or extended beyond
+neceſſity) wee ſay that the State need not engage
+their own party, by any other way, having ſuffici<g ref="char:EOLhyphen"/>ent <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+aſſurance of their good affection already.<note place="margin">Anſ.</note>
+                           </item>
+                           <item>2. All of a kind. <hi>viz.</hi> Of ſuch as have adhered to the
+King in this warre; wee believe (and have been in<g ref="char:EOLhyphen"/>formed)
+that the Ordinance intends all, and the non<g ref="char:EOLhyphen"/>execution
+of it, is to be written down, among the
+<hi>Errata</hi> of their Inſtruments.</item>
+                           <item>2. On ſome, not without deſign upon their
+<list>
+                                 <item>1. Eſtates.</item>
+                                 <item>2. Liberties</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>Wee might find heere ſome incongruity between this,<note place="margin">Anſ.</note> and <milestone type="tcpmilestone" unit="unspecified" n="13"/>
+what went immediately before, <hi>viz. (not urged on all.</hi>)
+Why not, if this be the deſign? Tis poſſible that other
+men upon whom this oath is not urged, may have eſtates
+and liberties, of equall conſequence with ſuch as
+ſpeake this by experience. Wee could ſay much of
+the animoſity, &amp;c. that is deſcended in ſuch expreſſions,
+but wee remember the point.</p>
+               </div>
+               <div type="demand">
+                  <head>3. <hi>Wee demand whether</hi>
+                  </head>
+                  <p>1. There be leſſe ground in the Goſpell for the <hi>negative Oath,</hi>
+then for the <hi>Oathes of Allegiance,</hi> of <hi>Canonicall obedience,</hi> the <hi>Pro<g ref="char:EOLhyphen"/>teſtation</hi>
+mentioned in the fourth Quere, &amp;c.</p>
+                  <p>2. All, or moſt of thoſe oathes be not in order to politique ends,
+and ſo engines of State?</p>
+                  <p>3. In relation to a ground in the Goſpell, there be not as much
+reaſon to queſtion their legality of contrivement and impoſition,
+as of this?</p>
+                  <p>
+                     <pb n="4" facs="tcp:113945:6"/>
+4. Such as are not able to ſhew more warrant in the Goſpell for
+thoſe, then this, may not lawfully take this, or muſt not neceſſa<g ref="char:EOLhyphen"/>rily
+repent for taking thoſe?</p>
+               </div>
+            </div>
+            <div n="2" type="question">
+               <head>2. Quere.</head>
+               <p>Wee deſire to know what ground there is in Gods word, for a <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi>
+by <hi>Oath</hi> to obliege himſelfe in future contingents? Or whether
+ſuch obligations concerning mutable affaires of <hi>State,</hi> not under our
+power, may not prove pernicious ſnares to <hi>Conſcience:</hi> and therefore
+to be in chriſtian prudence prevented, ſince one exception againſt the
+<hi>Popiſh Vow</hi> of <hi>continency,</hi> is, that it is a <hi>ſnare</hi> to <hi>conſcience?</hi>
+               </p>
+               <p>
+                  <hi>Your ſecond Quere is,</hi> what ground there is in Gods word
+for a <hi>Chriſtian</hi> to obliege himſelfe by oath, concerning mu<g ref="char:EOLhyphen"/>table
+affaires of <hi>State,</hi> not under his power, this being to ob<g ref="char:EOLhyphen"/>liege
+himſelfe by <hi>Oath</hi> in future contingents?</p>
+               <p>Reaſons of this Quere are,</p>
+               <list>
+                  <item>1. Such obligations may prove pernicious ſnares to
+<hi>conſcience.</hi>
+                  </item>
+                  <item>2. One exception againſt the <hi>Popiſh Vow</hi> of <hi>continen<g ref="char:EOLhyphen"/>cy,</hi>
+is, that it is a <hi>ſnare</hi> to <hi>conſcience.</hi>
+                  </item>
+               </list>
+               <div type="observation">
+                  <head>1. Wee obſerve,</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> 1. That by mutable affaires of State, muſt be meant the uncer<g ref="char:EOLhyphen"/>taine
+ſucceſſe of this Warre, or elſe it is not pertinent to the buſines
+in hand.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> 2. That the uncertainty which ſide will finally prevaile, doth
+obliege us in point of conſcience, not to ingage in either, without
+providing for a retreat.</p>
+               </div>
+               <div type="answer">
+                  <head>2. Wee anſwer.</head>
+                  <p>1. <hi>To your Quere,</hi> what ground there is in Gods word,
+for a Chriſtian, &amp;c.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> 1. Wee referre you to thoſe texts cited above in anſwer to your
+firſt Quere.</p>
+                  <p>2. All promiſſory oathes are obligations to future contingents,
+for how neceſſary ſoever any thing may be in its cauſes, &amp; to God,
+yet if it be not preſent, it is contingent to us, <hi>who knowes what a day
+may bring forth? vide Iam. 4. ver.</hi> 14.</p>
+                  <p>To your reaſons of your Quere,—<hi>to the</hi>
+                  </p>
+                  <p>
+                     <pb n="5" facs="tcp:113945:6"/>
+1. Such obligatious may prove pernicious ſnares to conſci<g ref="char:EOLhyphen"/>ences.</p>
+                  <p>
+                     <hi>Anſ.</hi> Never the ſooner for the contingency of the thing con<g ref="char:EOLhyphen"/>cerning
+which they are oblieged, for</p>
+                  <list>
+                     <item>1. Then ſo many promiſſory oathes as are made, ſo ma<g ref="char:EOLhyphen"/>ny <milestone type="tcpmilestone" unit="unspecified" n="17"/>
+ſnares to conſcience are made, and ſo <hi>David</hi> 119.
+Pſal. 1. 6, and <hi>Ioſuah,</hi> and the Princes of <hi>Iſrael, Ioſ.</hi> 9.
+15. <hi>Cum multis aliis,</hi> made ſnares for their Conſciences.</item>
+                     <item>2. If the contingency of the thing about which wee
+ſweare, impoſe upon us a reall impoſſibility of perfor<g ref="char:EOLhyphen"/>mance,
+the obligation is <hi>Ipſo facto,</hi> made null.</item>
+                  </list>
+                  <p>2. One exception againſt the Popiſh Vow of continency, is, that it
+is a ſnare to Conſcience.</p>
+                  <p>
+                     <hi>Anſ.</hi> The caſe is not like, for <milestone type="tcpmilestone" unit="unspecified" n="18"/>
+                  </p>
+                  <list>
+                     <item>1. That Vow is of ſomething not in our power, <hi>Mat.</hi>
+19. 11. not ſo this oath.</item>
+                     <item>2. That Vow is of that which is <hi>nullo jure,</hi> neceſſary,<milestone type="tcpmilestone" unit="unspecified" n="19"/>
+                        <hi>Heb. 13. 4. 1. Tim.</hi> 4 3. not ſo this oath. <hi>vid. infra.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="demand">
+                  <head>3. Wee demand whether,</head>
+                  <p>1. That which is ſworn to in the <hi>Negative Oath,</hi> hath more of
+contingency in it, then what is ſworn to in the <hi>Oath of Allegiance,
+Canonicall obedience,</hi> &amp;c.</p>
+                  <p>2. That which is ind<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d a ſnare to Conſcience, be a greater evill,
+then that which is a wound to Conſcience?</p>
+                  <p>3. Thoſe perſons may (in any charity) be ſuppoſed to act pure<g ref="char:EOLhyphen"/>ly,
+according to the light and dictates of conſcience, in one thing,
+th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t do not diſcover any Conſcience at all in other things?</p>
+                  <p>4. To pretend Conſcience for what wee act from other prin<g ref="char:EOLhyphen"/>ciples,
+be not a great ſin?</p>
+               </div>
+            </div>
+            <div n="3" type="question">
+               <head>3. Quere.</head>
+               <p>Whereas the wiſdome of Parliament lookt upon an <hi>Oath,</hi> for the
+never conſenting to the alteration of the Diſcipline by <hi>Law</hi> eſtabli<g ref="char:EOLhyphen"/>ſhed,
+as <hi>Tyrannicall,</hi> and prevented the generall impoſing of it, by
+the declaring the illegality of all <hi>Oathes</hi> not impoſed by <hi>Act</hi> of <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+Wee deſire to know, how the impoſing of this <hi>Oath,</hi> of not ad<g ref="char:EOLhyphen"/>hering
+to the <hi>King,</hi> can ſcape a hard conſtruction?</p>
+               <p>
+                  <hi>Your Third</hi> Quere, <hi>is,</hi> How the impoſing of this <hi>Oath,</hi> of
+<pb n="6" facs="tcp:113945:7"/>
+not adhering to the King, can eſcape a hard conſtruction?
+<hi>Reaſons of this</hi> Quere, are</p>
+               <list>
+                  <item>1. The Parliament lookt upon the <hi>&amp;c. Oath,</hi> as ty<g ref="char:EOLhyphen"/>rannicall.</item>
+                  <item>2. They declared all <hi>Oathes</hi> illegall, not impoſed by
+Act of Parliament.</item>
+               </list>
+               <div type="observation">
+                  <head>1. Wee Obſerve,</head>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="20"/> 1. That you dwell in generals <hi>Vbi fraus latet</hi>) and cannot tell
+what you do indeed meane by a hard conſtruction.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="21"/> 2. That laying your <hi>Quere</hi> and its grounds together, this muſt
+rationally be preſumed to be your meaning, <hi>viz.</hi> that this oath of
+not adhering,
+is
+<list>
+                           <item>1. Tyrannicall.</item>
+                           <item>2. Not impoſed by Act of Parliament.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>You muſt own it in this ſence, or diſcharge the Parliaments loo<g ref="char:EOLhyphen"/>king
+upon the <hi>&amp;c.</hi> Oath as tyrannicall, and their declaring the il<g ref="char:EOLhyphen"/>legality
+of all Oathes, not impoſed by Act of Parliament, from
+being reaſons of this <hi>Quere,</hi>—and ſo</p>
+               </div>
+               <div type="answer">
+                  <head>2. Wee anſwer,</head>
+                  <list>
+                     <item>1. To your <hi>Quere,</hi> how this oath can eſcape the conſtru<g ref="char:EOLhyphen"/>ction
+of being
+<list>
+                           <item>1. Tyrannicall.</item>
+                           <item>2. Not impoſed by Act of Parliament.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>You will be ſatisfyed (wee hope) upon the making good of theſe
+two things, <hi>viz.</hi>
+                  </p>
+                  <p>That the impoſition of this Oath</p>
+                  <list>
+                     <item>1. Is not tyrannical.</item>
+                     <item>2. Is impoſed by an authority
+equivalent to an Act of Parl.</item>
+                  </list>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="22"/> 1. It is not tyrannicall, becauſe not <hi>contra</hi>
+                        <list>
+                           <item>1. aquum.</item>
+                           <item>2. bonum.</item>
+                           <item>3. leges.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <item>1. aquum,
+<list>
+                           <item>1. There is <hi>jus regni,</hi> in all that by the Par<g ref="char:EOLhyphen"/>liament
+<milestone type="tcpmilestone" unit="unspecified" n="23"/> is in this War contended for.</item>
+                           <item>2. Its all equity in the world, that thoſe
+perſons who will live in the Parliaments
+<hi>Quarters,</hi> ſhould declare themſelves, at leaſt,
+not to be their enemies.</item>
+                           <item>
+                              <pb n="7" facs="tcp:113945:7"/>
+2. <hi>Bonum eſſe,</hi> you prejudice the State, in giving (as wee re<g ref="char:EOLhyphen"/>member <milestone type="tcpmilestone" unit="unspecified" n="24"/>
+you confeſſed your ſelves ready to do) any other aſſurance,
+not to adhere &amp;c. beſide an oath.</item>
+                           <item>3. Leges, vide infra (26.) &amp;c.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>2. It is impoſed by an authority equivalent to an Act of Parlia<g ref="char:EOLhyphen"/>ment,
+wee ſhall offer unto you, (as to ingenuous men,) theſe Pro<g ref="char:EOLhyphen"/>poſitions.
+<hi>viz.</hi>
+                  </p>
+                  <p>1. That the King wilfully abſenting himſelfe, or diſſenting,<milestone type="tcpmilestone" unit="unspecified" n="25"/>
+its in the Power of Parliament to make lawes (which do bind
+the Subject) for the ſafety of the Kingdome—which
+wee thus prove.</p>
+                  <p>If the Parliament have not this power, it is either, becauſe of <milestone type="tcpmilestone" unit="unspecified" n="26"/>
+the Kings diſſent, or becauſe of ſomething elſe—but &amp;c.
+<hi>ergo.</hi>
+                  </p>
+               </div>
+               <div n="minor" type="proof">
+                  <head>The minor is proved thus,</head>
+                  <p>If the Kings diſſent can hinder a Law, the Parliament aſſent<g ref="char:EOLhyphen"/>ing,
+then the Kings aſſent can make a Law, the Parliament diſ<g ref="char:EOLhyphen"/>ſenting,
+—but, &amp;c. <hi>ergo.</hi>
+                  </p>
+               </div>
+               <div n="major" type="proof">
+                  <head>The major is proved thus,</head>
+                  <p>If there be an equall Power in the King to do both, then he
+may as well do the one as the other.—but, &amp;c. <hi>ergo.</hi>
+                  </p>
+               </div>
+               <div n="minor" type="proof">
+                  <head>The minor is proved thus.</head>
+                  <p>If the doing of both do equally concerne the Kingdoms
+good, then there is an equall power in the King to both, [for
+whatſoever the King<g ref="char:punc">▪</g> 
+                     <hi>quatenus</hi> King, is or hath, he is, and hath
+it for the Kingdoms good, as the meanes is for the end, <hi>Rom.</hi> 13.
+4.] but the doing of both, doth equally concern the Kingdoms
+good, [the Kingdome is as much concerned, that (good) lawes
+be made, as that (evill) lawes be hindered]<hi>—ergo.</hi>
+                  </p>
+                  <p>2. Not to allow Ordinances (<hi>ut ſupra</hi>) equivalent to Acts,<milestone type="tcpmilestone" unit="unspecified" n="27"/>
+(which at leaſt <hi>Sedente curiâ</hi> was never queſtioned) is to neceſſi<g ref="char:EOLhyphen"/>tate
+the continuance of old Lawes, though never ſo prejudiciall, &amp;
+to impoſſibilitate the making of a new, though never ſo neceſſary,
+if the King will; contrary to that known rule in Politiques,
+<q>
+                        <hi>Lex debet Reipub<g ref="char:punc">▪</g> accommodari, non reſpub. legi.</hi>
+                     </q>
+                  </p>
+                  <p>3 It makes the King abſolute, and his government arbitrary, it
+being all one to rule without a Law, and to rule by a Law of his
+own making, and which could not be made without him.</p>
+               </div>
+               <div type="demand">
+                  <head>3. Wee demand whether,</head>
+                  <pb n="8" facs="tcp:113945:8"/>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="28"/> 1. <hi>Ius gladii</hi> (if the Parliament were pleaſed, or had need to
+plead it) doth not entitle them to power enough to impoſe this
+Oath?</item>
+                     <item>2. The King had any more, for impoſing his Proteſtation, in
+places under his power?</item>
+                     <item>3. The impoſition of that Proteſtation (being not by Act of
+Parliament, nor by any power equivalent) be tyrannicall, and ca<g ref="char:EOLhyphen"/>pable
+of a hard conſtruction?</item>
+                  </list>
+               </div>
+            </div>
+            <div n="4" type="question">
+               <head>4. Quere.</head>
+               <p>Since there is a naturall all allegiance due to the perſon of King <hi>Charles</hi>
+from all his Subjects born (ſo that it is a declared treaſon to diſtinguiſh
+between the naturall, and politique capacity of the King, as it is evi<g ref="char:EOLhyphen"/>dent
+in <hi>Cookes Report</hi> of <hi>Calvins caſe</hi>) which the founders of our
+Government have thought fit to ratifie, by Oathes of fealty and alle<g ref="char:EOLhyphen"/>giance,
+which obliege all Subjects to adhere unto, and aſſiſt King
+<hi>Charles</hi> in time of Warre, as well as in time of Peace: and ſince by a
+late Proteſtation, taken at the inſtinct of Parliament, wee have ob<g ref="char:EOLhyphen"/>lieged
+our ſelves in our ſeverall places, and callings, to maintaine
+with our lives and fortunes, the Kings perſon, honour and eſtate, and
+to endevour to bring to condigne puniſhment all thoſe who oppoſe them,
+wee deſire to know, how any power on earth (without being Antichri<g ref="char:EOLhyphen"/>ſtian)
+can abſolve us from this allegiance, or diſingage us from our
+vowes of adherence to the King, in maintenance of his right, ſuch as is
+the power of the <hi>Militia,</hi> acknowledged by the Parliaments Petition
+at <hi>Windſor,</hi> to be a flower of the Crown.</p>
+               <p>
+                  <hi>Your fourth</hi> Quereis, what power on earth, (without
+being Antichriſtian) can abſolve us from our oath of
+Allegiance, or diſ-ingage us from a late Proteſtation
+taken by inſtinct of Parliament, oblieging us to main<g ref="char:EOLhyphen"/>tain
+the Kings perſon, honour, and eſtate, and to adhere
+to him in the maintenance of his right, ſuch as is the power
+of the <hi>Militia,</hi> &amp;c.</p>
+               <p>Reaſons of this <hi>Quere,</hi> are,</p>
+               <list>
+                  <item>1. There is a naturall allegiance due to the perſon of
+King <hi>Charles,</hi> from all his Subjects born.</item>
+                  <item>2. This naturall allegiance, the founders of our Go<g ref="char:EOLhyphen"/>vernment,
+<pb n="9" facs="tcp:113945:8"/>
+have thought fit to ratify by Oathes of <hi>Feal<g ref="char:EOLhyphen"/>ty</hi>
+and <hi>Allegiance.</hi>
+                  </item>
+                  <item>3. Theſe Oathes obliege all Subjects to adhere unto, and
+aſſiſt King <hi>Charles</hi> in time of War, as well as in time of
+Peace.</item>
+                  <item>4. Tis a declared Treaſon to diſtinguiſh between the na<g ref="char:EOLhyphen"/>turall
+and politique capacity of the King, as is evident in
+<hi>Cooks Report</hi> of <hi>C<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lvins caſe,</hi> vid. 11. Hen. 7. 1.</item>
+               </list>
+               <div type="observation">
+                  <head>1. Wee obſerve.</head>
+                  <list>
+                     <item>1. That you inſinuate a power to be claimed by the Par<g ref="char:EOLhyphen"/>liament <milestone type="tcpmilestone" unit="unspecified" n="29"/>
+of abſolving men from Oathes, and diſingaging
+them from Proteſtations.</item>
+                     <item>2 That you inſinuate this power to be <hi>Antichriſtian.</hi>
+                     </item>
+                     <item>3. That it is exerciſed in impoſing the <hi>Negative</hi> Oath.</item>
+                  </list>
+               </div>
+               <div type="answer">
+                  <head>2. Wee Anſwer.</head>
+                  <p>1. To your <hi>Quere,</hi> what power on earth? &amp;c.
+That by the Negative Oath you bind your ſelves from nothing,
+which you are bound unto by the oath of Allegiance, or the late <milestone type="tcpmilestone" unit="unspecified" n="30"/>
+Proteſtation taken by inſtinct of Parliament. For the cleering of
+this, wee ſhall premiſe</p>
+                  <p>That neither Oath nor Proteſtation obliege us to any new du<g ref="char:EOLhyphen"/>ty,
+but only bind us, (in the ſacred Bond of an Oath) to per<g ref="char:EOLhyphen"/>forme
+that which was ever due. This truth we have from the
+<hi>Series</hi> of your own arguments, there is (as you call it) a naturall
+allegiance, which is (you ſay) ratifyed (not added unto) by
+<hi>Oathes</hi> of Fealty and allegiance.—Thus then</p>
+                  <p>If the <hi>Negative Oath</hi> bind you from nothing, which is (by your
+naturall allegiance) the Kings due, then it binds you from nothing,
+which you are bound unto by the <hi>Oath</hi> of <hi>Allegiance,</hi> or the late
+<hi>Proteſtation.</hi>—But, &amp;c.—<hi>ergo.</hi>
+                  </p>
+                  <p>Ob. It binds us from adhering unto, or aſſiſting the King
+in this Warre.</p>
+                  <p>Sol. This is not the Kings due.—Wee prove it thus.</p>
+                  <p>Nothing is the Kings due, but what he can claime, either by the
+Law, or by his Prerogative; [wee never heard of a third title, and <milestone type="tcpmilestone" unit="unspecified" n="31"/>
+his Majeſtie ſeemes in one of his Declarations, to reduce all to one,
+in this acknowledgement, <hi>The Law is the meaſure of our power.</hi> And
+<pb n="10" facs="tcp:113945:9"/>
+wee conceive that the meaſure, and the thing meaſured are not
+greater, nor leſſe one then another. But for your good, you ſhall
+have in the Prerogative to boot]—&amp;c. but the King can<g ref="char:EOLhyphen"/>not
+claime aſſiſtance in this warre, either by Law, or by his Prero<g ref="char:EOLhyphen"/>gative.
+<hi>Ergo.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="32"/> 1. He cannot claim it by Law; for</p>
+                  <list>
+                     <item>1. The ſence of the Law is to be judged of, by the
+mind of the Law-giver, and wee cannot yet thinke
+that the Parliaments mind was to give the <hi>King</hi> a
+power to cut their own throates.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="33"/> 2. The <hi>King</hi> ſeemes to allow the Parliaments ſence
+of the law to be authentique, though directly oppoſite
+to his own ſence of it, as in <hi>Strafords</hi> caſe.</item>
+                     <item>3. Then the Law binds you to endeavour the deſtru<g ref="char:EOLhyphen"/>ction
+of all thoſe godly perſons in the Kingdome, who
+are of the contrary party, and this wee have found was
+(as long as they appeared) at leaſt <hi>finis operis.</hi>
+                     </item>
+                     <item>4. Twere good that Law were produced which in<g ref="char:EOLhyphen"/>ables
+the King to claime your aſſiſtance in a Warre
+againſt his two houſes of Parliament, [his <hi>Majeſty</hi> him<g ref="char:EOLhyphen"/>ſelfe
+ſaw ſo little of Law in it, that he himſelfe proteſt<g ref="char:EOLhyphen"/>ed
+himſelfe as ready to Warre againſt his own Chil<g ref="char:EOLhyphen"/>dren]</item>
+                  </list>
+                  <p>
+                     <hi>Obj.</hi> Wee have directed you in the <hi>Margin,</hi> to
+the Statute of 11. <hi>Hen. 7. Chap.</hi> 1.</p>
+                  <p>
+                     <hi>Sol.</hi> And wee direct you to the Parliaments ex<g ref="char:EOLhyphen"/>poſition
+of, and Declaration upon that <hi>Statute,</hi>
+printed above three yeares ſince.</p>
+                  <p>
+                     <hi>Obj.</hi> The Parliament acknowledged the power of
+the <hi>Militia</hi> to be a flower of the Crown.</p>
+                  <p>
+                     <hi>Sol.</hi> To uſe for, not againſt the Kingdome, accor<g ref="char:EOLhyphen"/>ding
+to Law, not will, <hi>vid. ſupra</hi> (26) <hi>
+                        <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t infra</hi>
+(42.)</p>
+                  <p>2. The King cannot claime your aſſiſtance in this Warre by his
+Prerogative, wee ſhall endeavour to hold you ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+what Prerogative</p>
+                  <list>
+                     <item>1. is not.</item>
+                     <item>2. is.
+<list>
+                           <pb n="11" facs="tcp:113945:9"/>
+                           <item>1. Prerogative <hi>is
+not</hi>
+                              <list>
+                                 <item>1 A power in the King to do what he pleaſeth,<milestone type="tcpmilestone" unit="unspecified" n="34"/>
+not a power by any inſtruments of his to take
+away the life, or eſtate, of any Subject, to break
+the priviledge (much leſſe the ne<gap reason="illegible" resp="#TECH" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>ks) of <hi>Par<g ref="char:EOLhyphen"/>liaments,
+&amp;c.</hi> [tis not (wee hope) for this
+cauſe, wee pay Tribute, <hi>Rom.</hi> 13. 6.]—this
+is not <hi>Prerogative.</hi>
+                                 </item>
+                                 <item>For
+<list>
+                                       <item>1. The King every where diſclaims it.</item>
+                                       <item>2. To what purpoſe lawes, if a <hi>Sic <gap reason="illegible" resp="#TECH" extent="1 letter">
+                                                <desc>•</desc>
+                                             </gap>o<g ref="char:EOLhyphen"/>lo,</hi>
+were enough?
+<list>
+                                             <item>2. A power to do what he pleaſeth, in caſes,
+not provided for by Law—Wee ſhall againe
+reſume his Majeſties acknowledgement: <hi>The
+Law is the meaſure of Our Power,</hi> where
+<list>
+                                                   <item>1. Is not meant our power drawn into
+a Law, that is not elegant enough, for a
+<hi>Penner</hi> of his Majeſties Declarations.
+but here</item>
+                                                   <item>2. Is meant our power, left free, and <milestone type="tcpmilestone" unit="unspecified" n="35"/>
+undeter minate, the Law is the meaſure
+of this, (<hi>i. e.</hi>) our <hi>Prerogative</hi> will en<g ref="char:EOLhyphen"/>able
+us to do whatſoever the Law may
+be preſumed would have allowed us to
+doe, if there had been a Law made.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>2. Prerogative is
+<list>
+                                       <item>A power in the King, to doe the Kingdome <milestone type="tcpmilestone" unit="unspecified" n="36"/>
+good, in caſes not provided for by Law.—
+<hi>Prerogative</hi> is not a jot more then this.
+<list>
+                                             <item>1. If the wiſdome of a State, could fore<g ref="char:EOLhyphen"/>ſee
+every thing that would need a Law,
+they would make a Law for it, and leave
+no <hi>Prerogative</hi> at all.</item>
+                                             <item>2. Wee ſee that there is ſtill more and
+more of the Kings power drawn out
+of his <hi>Prerogative</hi> into his Lawes, as
+inconveniencies not foreſeen, do im<g ref="char:EOLhyphen"/>merge.</item>
+                                             <item>3. That the King ſhould (as the neceſſi<g ref="char:EOLhyphen"/>ty
+<pb n="12" facs="tcp:113945:10"/>
+of the Kingdome calles for it) thus em<g ref="char:EOLhyphen"/>pty
+his Prerogative into his Lawes, not left
+Arbitrary, but it is his duty, <hi>vid. ſupra</hi> (26) 27)</item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>2. To the Reaſons of the Quere, to</p>
+                  <p>There is a naturall Allegiance due to the perſon of K. <hi>Charles.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="37"/>
+                     <hi>Anſ.</hi> This doth no more bind you to aſſiſt the King in any thing
+that is evill, then the naturall Allegiance of either of you to a Fa<g ref="char:EOLhyphen"/>ther
+doth bind you to helpe kill a man, (only <hi>
+                        <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o nomine</hi>) becauſe
+your Father calles for your aſſiſtance.</p>
+                  <p>2. This naturall Allegiance, the Founders of our Govern<g ref="char:EOLhyphen"/>ment,
+&amp;c.</p>
+                  <list>
+                     <item>
+                        <hi>Anſ.</hi> Wee ſhall
+note, that
+<list>
+                           <item>
+                              <milestone type="tcpmilestone" unit="unspecified" n="38"/> 1. The Parliament are the Founders of our go<g ref="char:EOLhyphen"/>vernment.</item>
+                           <item>2. They may contrive, and impoſe oathes, in
+order to politique ends.</item>
+                           <item>3. What influence the Kings aſſent or diſſent
+hath, you have heard above (26.)</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>3. Theſe oathes obliege all Subjects to adhere unto, and aſſiſt
+King <hi>Charles,</hi> &amp;c.</p>
+                  <list>
+                     <item>
+                        <hi>Anſ.</hi> That
+<list>
+                           <item>
+                              <milestone type="tcpmilestone" unit="unspecified" n="39"/> 1. They obliege us to no new duty <hi>ſupra</hi> 30.</item>
+                           <item>2. What is premiſed in the oath of Allegi<g ref="char:EOLhyphen"/>ance,
+is in oppoſition to that uſurped power
+of Potentates, &amp;c. abroad, not to the lawfull
+power of the Kingdome at home, (<hi>vid.</hi> 3.
+<hi>Jacob.</hi> 4.)</item>
+                           <item>3. This oath muſt receive its expoſition, from
+whence it did its compoſition, <hi>viz.</hi> from
+the Parliament of <hi>England.</hi>
+                           </item>
+                           <item>4. There is (at leaſt virtually) as much of the
+<milestone type="tcpmilestone" unit="unspecified" n="40"/> Kings Power in the <hi>Negative Oath,</hi> as in
+the oath of Allegiance.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>4. Tis a declared Treaſon to diſtinguiſh between the naturall
+and politique capacity of the King, as is evident in <hi>Cooks</hi> Reports.</p>
+                  <list>
+                     <item>Anſ.
+<list>
+                           <item>1. From the authority of <hi>Cooks Reports,</hi> wee referre
+you to the <hi>Reports</hi> of <hi>Finch, Barcley, &amp;c.</hi> in the caſe
+of <hi>Ship-money, Monopolies, &amp;c.</hi>
+                           </item>
+                           <item>2. Parliaments are not tyed to the reports of Judges
+but have power to araign and condemn both Reports
+and <hi>Reporters.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </div>
+               <div type="demand">
+                  <pb n="11" facs="tcp:113945:10"/>
+                  <head>3. We demand, whether</head>
+                  <p>1. Our naturall Allegiance to the perſon of King <hi>Charles,</hi> be <milestone type="tcpmilestone" unit="unspecified" n="41"/>
+due to the perſon of that perſon, <hi>quatenus Charles (i. e.</hi>) ſuch a
+determinate, <hi>individuum,</hi> or <hi>quatenus</hi> King (<hi>i. e.</hi>) a perſon inveſted
+with ſuch a power, or <hi>quateum</hi> both?</p>
+                  <p>2. If any perſon (by conqueſt or otherwiſe) ſhould be eſtabli<g ref="char:EOLhyphen"/>ſhed
+King of <hi>France,</hi> as <hi>William</hi> the <hi>Normand</hi> was of <hi>England,</hi> (the
+preſent French King yet living) to which of theſe two is the na<g ref="char:EOLhyphen"/>turall
+allegiance of the ſubjects borne of that Kingdome, due?</p>
+                  <p>3. If a King be <hi>non compos mentis,</hi> any Oath of Allegeance to
+him, when he was <hi>ſanae memoria,</hi> doth bind his ſubjects to aſſiſt
+him (by vertue of his verball or written precept) in war and peace?</p>
+                  <p>4. We of this generation (unſw<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rne) be bound to make good
+thoſe <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>athes of Fealty and Allegeance which were taken by our
+Progenitors, upon pain of perjury?</p>
+                  <p>5. A Prince having (as an acknowledged Flower of the <milestone type="tcpmilestone" unit="unspecified" n="42"/>
+Crown) the power of the <hi>Militia,</hi> and going about with any part
+of that <hi>Militia</hi> to deſtroy himſelfe or his children, ought to be aſ<g ref="char:EOLhyphen"/>ſiſted
+in it?—This to your <hi>Queries.</hi>—Your</p>
+               </div>
+               <div type="proposition">
+                  <head>5. and laſt is a Propoſition,—viz.</head>
+                  <p>All Oathes being to be taken in the common grammaticall ſenſe,
+this oath ties the taker from all maner of aſſiſtance to the King during
+this war. Now ſince the violence of battaile may be directed againſt
+the ſacred perſon of the King, and the miſ-guided fury of the common
+ſouldiers, hath bent it ſelfe againſt, and may hereafter attempt the
+life of our gracious Soveraigne, we cannot ſafely abjure all, ſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cours
+to the preſervation of him, whoſe life is worth ten thouſand of us.</p>
+                  <p>5. <hi>Your Propoſition is,</hi>—This Oath ties the taker from all
+manner of aſſiſtance to the King, during this War; and the
+taking of it, were to abjure all ſuccours for the ſaving of his
+life.</p>
+               </div>
+               <div type="reasons">
+                  <head>Reaſons of this Propoſition are.</head>
+                  <list>
+                     <item>1 This Oath is to be taken in the common grammaticall ſenſe.</item>
+                     <item>2 The violence of battaile may be directed againſt the ſacred
+Perſon of the King.</item>
+                     <item>3 The miſ-guided fury of the Common ſouldiers hath bent it ſelf
+againſt the life of our gracious Soveraigne.</item>
+                     <item>4 It may hereafter attempt the like.</item>
+                     <item>5 The Kings life is worth ten thouſand of us.</item>
+                  </list>
+               </div>
+               <div type="observation">
+                  <pb n="12" facs="tcp:113945:11"/>
+                  <head>1. We obſerve,</head>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="43"/> 1. That whereas in the other foure particulars you were onely
+<hi>Quaerentes,</hi> here you are <hi>Determinantes.</hi>
+                  </p>
+                  <p>2. That you would intimate, that the Parliament would bind
+you by oath from ſaving the Kings life, if it were hazarded.</p>
+               </div>
+               <div type="answer">
+                  <head>2. We anſwer,</head>
+                  <p>1. <hi>To your Propoſition,</hi>—This Oath ties the taker, &amp;c.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="44"/> 1. The Oath hath no ſuch phraſe in it, as, <hi>during this War,</hi> but,
+<hi>in this War or Cauſe.</hi> We doe not here call your candour and inge<g ref="char:EOLhyphen"/>nuity
+into queſtion.</p>
+                  <p>2. The oath ties not the taker from all manner of aſſiſtance to
+<milestone type="tcpmilestone" unit="unspecified" n="45"/> the King, but onely in this war, (<hi>i. e.</hi>) in relation to this war, <hi>Ex.
+gr.</hi> if <hi>Cooks</hi> Reports were tyed from aſſiſting you in this Cauſe,
+<hi>viz.</hi> in proving a diſtinction between the natural and the politique
+capacity of the King, Treaſon: are they thereby tyed from all man<g ref="char:EOLhyphen"/>ner
+of aſſiſtance to you, till this controverſie be ended? may they
+not yet aſſiſt you in a caſe of tenure of lands, <hi>Quare impedit,</hi> &amp;c?</p>
+                  <p>
+                     <hi>I. N.</hi> and <hi>I. S.</hi> are in a ſuit of Law, I <hi>A. B.</hi> doe ſweare not to ad<g ref="char:EOLhyphen"/>here
+unto, nor willingly to aſſiſt <hi>I. N.</hi> in this ſuit; doth the gram<g ref="char:EOLhyphen"/>maticall
+ſenſe of my oath tye me from inviting <hi>I. N.</hi> to dinner, or
+from pulling of him out of a ditch? &amp;c.</p>
+               </div>
+               <div type="reasons">
+                  <head>2. To the Reaſons of your Propoſition. To</head>
+                  <p>
+                     <list>
+                        <item>1. The Oath is to be taken in the common grammaticall ſenſe.</item>
+                        <item>
+                           <hi>Anſw.</hi> This ſenſe abjures not all ſuccours, <hi>ut ſupra</hi> (45.)</item>
+                        <item>2. The violence of battaile may be directed againſt the ſacred Per<g ref="char:EOLhyphen"/>ſon
+of the King.</item>
+                        <item>
+                           <hi>Anſw.</hi>
+We hold
+<list>
+                              <item>1. That the perſon of the King, and of every ſupreame
+Magiſtrate in any State, is inviolable, and not ſubject
+<milestone type="tcpmilestone" unit="unspecified" n="46"/> to any penall hand.</item>
+                              <item>2. That in this War, no Souldier ought willingly to take
+away the Kings life.</item>
+                              <item>3. That if the King will wilfully adventure his perſon
+in battaile, the Parliaments Army may and ought to
+fight, not withſtanding the Kings preſence in the ene<g ref="char:EOLhyphen"/>mies
+Army,—becauſe
+<list>
+                                    <item>1. If his perſon be in danger, tis not the Parl. fault,
+(who would not have him there) but his owne,
+and his adherents, who prize his life at no higher a
+rate.</item>
+                                    <item>
+                                       <pb n="13" facs="tcp:113945:11"/>
+2. The Parl. are acting within the ſphere of their
+own power, and ſo doing their duty, not ſo the
+King, <hi>ut ſupra,</hi> (26, 27.)</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                     <list>
+                        <item>4. That if I ſee the Kings life in danger, (as a ſouldier
+ſtriking, or wounding him) I may reſcue him, and
+ſave his life, the Negative Oath notwithſtand<g ref="char:EOLhyphen"/>ing,
+—for
+<list>
+                              <item>1. This is no more an adhering unto, or an aſſiſt<g ref="char:EOLhyphen"/>ing <milestone type="tcpmilestone" unit="unspecified" n="47"/>
+of the King in this Warre, then it is, when
+a Parliament Captain ſhall reſcue a Cavalier, that
+he may have Quarter, when his Lieutenant was a<g ref="char:EOLhyphen"/>bout
+to hang him. An uſuall practice.</item>
+                              <item>2. This being neceſſarily underſtood in the Nega<g ref="char:EOLhyphen"/>tive
+Oath, is contained in the grammaticall ſenſe
+of it. [Shew us in what this Rule is falſe,—<hi>Quod
+neceſſario intelligitur, non deeſt.]</hi>
+                              </item>
+                              <item>3. In all promiſſory oathes, ſomething muſt ever be
+underſtood, [as the Caſuiſts reſolve, <hi>Summ. An<g ref="char:EOLhyphen"/>gelica
+in verbo Jurament. 4. Qu.</hi> 5.]</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>3. The miſguided fury of the common ſouldiers hath bent it
+ſelfe againſt the life of our gratious Soveraigne.</p>
+                  <p>
+                     <hi>Anſw.</hi> This is matter of fact, and if we knew that you ſpake <milestone type="tcpmilestone" unit="unspecified" n="48"/>
+upon your knowledge, we would not ſtick to call it, as you doe,
+miſguiſed fury.</p>
+                  <p>4. It may hereafter attempt the like.</p>
+                  <p>
+                     <hi>Anſw.</hi> We cannot propheſie, but if the King ſuffer in his Per<g ref="char:EOLhyphen"/>ſon
+by the Parliaments ſucceedings in this Warre, it will be his
+owne fault, <hi>ut ſupra</hi> (46)</p>
+                  <p>5. The Kings life is worth 10000. of us.</p>
+                  <p>
+                     <hi>Anſw.</hi> We will not diſpute the value of His Majeſties life; but
+if it be worth no more, his will hath coſt above twice as much, as
+his life is worth. 3. <hi>We demand, whether</hi>
+                  </p>
+                  <list>
+                     <item>1. This clauſe <hi>[the Kings life is worth 10000. of us]</hi> be to be
+taken in the ſence that all Oathes are?</item>
+                     <item>2. <hi>Cooks</hi> declared Treaſon in <hi>Calvins</hi> caſe, muſt not be par<g ref="char:EOLhyphen"/>doned
+to make this clauſe good? (40).</item>
+                     <item>3. A man that hath taken the Kings proteſtation may not
+(which is ſome aſſiſtance during this Warre) hold Sir <hi>Thomas
+Fairfax</hi> his Horſe, without guilt of perjury? <hi>Diximus.</hi>
+                     </item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
